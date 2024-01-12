@@ -1,0 +1,30 @@
+_repo: Economic-effects-of-the-world-war-upon-women-and-children-in-Great-Britain_72639
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Andrews, Irene Osgood
+    gutenberg_agent_id: '56762'
+    url: http://www.gutenberg.org/2009/agents/56762
+  - agent_name: Hobbs, Margaret A.
+    gutenberg_agent_id: '56763'
+    url: http://www.gutenberg.org/2009/agents/56763
+description: ''
+gutenberg_issued: '2024-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72639'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924013938687/page/n5/mode/2up
+pgterms:marc905: 20221030110545andrews
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bOxford University Press, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Economic effects of the world war upon women and children in Great Britain
+url: http://www.gutenberg.org/ebooks/72639
